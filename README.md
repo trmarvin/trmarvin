@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi hi 👋 I'm Tamar.
+
+Lifelong internet nerd, finally decided to learn coding for real. 
+
+🌱 I’m currently learning Javascript, React, Python, Node.js
+👩‍🎓 I have a Ph.D. in medieval & early modern Jewish studies, ask me what medieval manuscripts and webpages have in common (a lot!)
+🔭 I’m currently working on digital resources for Jewish learning
+⚡ Fun fact: my first handcoded webpage was about Walt Whitman anticipating modernism
 
 <!--
 **trmarvin/trmarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
